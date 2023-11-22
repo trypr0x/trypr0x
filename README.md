@@ -6,3 +6,5 @@ I am a JavaScript and python developer, so I develop things in JavaScript and Py
 <img src="https://www.abuseipdb.com/contributor/105648.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
 </a>
 
+### If you are seeing this, or my website is offline, or you have been probably seeing my profile.
+
