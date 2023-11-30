@@ -7,3 +7,11 @@ I am a JavaScript and python developer, so I develop things in JavaScript and Py
 
 ### If you are seeing this, or my website is offline, or you have been probably seeing my profile.
 
+My stats
+
+[![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+
