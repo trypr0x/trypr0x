@@ -9,7 +9,7 @@ I am a JavaScript and python developer, so I develop things in JavaScript and Py
 
 My stats
 
-[![TryPr0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=trypr0x)]
+![TryPr0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=trypr0x&show_icons=true&theme=dracula)
 
 Badges
 <br>
