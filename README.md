@@ -9,9 +9,7 @@ I am a JavaScript and python developer, so I develop things in JavaScript and Py
 
 My stats
 
-[![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/trypr0x/trypr0xstats/master/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![TryPr0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=trypr0x)]
 
 Badges
 <br>
@@ -19,13 +17,9 @@ Badges
 <br>
 ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <br>
-![](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-<br>
 ![](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 <br>
 ![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
-<br>
-![](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
