@@ -1,1 +1,25 @@
+# Hi, I'm tryprox!
+
+I am a JavaScript and python developer, so I develop things in JavaScript and Python, and html of course lol
+
+<a href="https://www.abuseipdb.com/user/105648" title="AbuseIPDB is an IP address blacklist for webmasters and sysadmins to report IP addresses engaging in abusive behavior on their networks">
+<img src="https://www.abuseipdb.com/contributor/105648.svg" alt="AbuseIPDB Contributor Badge" style="width: 401px;">
+
+### If you are seeing this, or my website is offline, or you have been probably seeing my profile.
+
+My stats
+
+![TryPr0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=trypr0x&show_icons=true&theme=dracula)
+
+Badges
+<br>
+![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<br>
+![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>
+![](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
+<br>
+![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+<br>
+![](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)
 
