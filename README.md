@@ -11,18 +11,3 @@ I am a Full-Stack Developer.
 <h3>My stats</h3>
 
 ![TryPr0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=trypr0x&show_icons=true&theme=dracula)
-
-<h3>Badges</h3>
-<br>
-![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-<br>
-![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-<br>
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-<br>
-![](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
-<br>
-![](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-<br>
-
-
