@@ -8,11 +8,11 @@ I am a Full-Stack Developer.
 <br>
 <br>
 
-My stats
+<h3>My stats</h3>
 
 ![TryPr0x's GitHub stats](https://github-readme-stats.vercel.app/api?username=trypr0x&show_icons=true&theme=dracula)
 
-Badges
+<h3>Badges</h3>
 <br>
 ![](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <br>
